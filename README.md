@@ -1,6 +1,5 @@
 # Pagination
 A pagination class for php webpages
-# Customizable
 
 Example:
 
